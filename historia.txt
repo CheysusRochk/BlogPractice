@@ -12,3 +12,6 @@ Hoy es estudiante de Ing. en telecomunicaciones
 Correccion de error ya no es historia es que nos enfocaremos en su vida comercial.
 
 i=volver a poner el rm
+
+
+probando el rm
