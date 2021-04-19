@@ -14,4 +14,8 @@ Correccion de error ya no es historia es que nos enfocaremos en su vida comercia
 i=volver a poner el rm
 
 
-probando el rm
+probando el rm :
+
+Esto es antes de que borre el head 
+
+esto es para borrar el head
