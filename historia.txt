@@ -20,6 +20,7 @@ Esto es antes de que borre el head
 
 esto es para borrar el head
 
+<<<<<<< HEAD
 
 
 
@@ -27,3 +28,8 @@ esto es para borrar el head
 Master 1
 
 Master 2
+=======
+Experimento 1
+
+Master 1
+>>>>>>> cc57d54 (Exp1)
